@@ -1,0 +1,7 @@
+{
+  "name": "study-v2-admin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
